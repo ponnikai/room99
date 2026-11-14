@@ -86,7 +86,7 @@
     "type": "candle",
     "size": null,
     "price": 149,
-    "image": "images/relax.jpg",
+    "image": "images/candle_lavender.jpg",
     "description": "เทียนหอมแสงนวลกลิ่นละมุน ที่ช่วยโอบกอดความเหนื่อยล้าให้หลับสบายตลอดคืน"
   },
   {
@@ -96,7 +96,7 @@
     "type": "candle",
     "size": null,
     "price": 149,
-    "image": "images/romance.jpg",
+    "image": "images/candle_romantic.jpg",
     "description": "เทียนหอมสร้างบรรยากาศแสนอบอุ่น หวานละมุน ชวนให้หัวใจฟูในทุกค่ำคืนพิเศษ"
   }
 ]
